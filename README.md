@@ -7,7 +7,7 @@
 - 📫 How to reach me: ... poojayadav190618@gmail.com
   <p>
   <h4>Reach me</h4>
-  <a href="https://www.linkedin.com/in//"><img src="https://img.icons8.com/android/24/000000/linkedin.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/pooja-yadav-b939033a/"><img src="https://img.icons8.com/android/24/000000/linkedin.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://twitter.com/pooja_yadav111"><img src="https://img.icons8.com/android/24/000000/twitter.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://netlify.app/"><img src="https://img.icons8.com/ios-filled/24/000000/portfolio.png"/></a>
 </p>
