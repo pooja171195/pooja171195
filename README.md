@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning ... Mongodb
 - 👯 I’m looking to collaborate on ... React.js
 - 🤔 I’m looking for help with ... Node.js
-- 📫 How to reach me: ... @gmail.com
+- 📫 How to reach me: ... poojayadav190618@gmail.com
   <p>
   <h4>Reach me</h4>
   <a href="https://www.linkedin.com/in//"><img src="https://img.icons8.com/android/24/000000/linkedin.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
