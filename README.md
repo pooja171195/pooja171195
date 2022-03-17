@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on ... React.js
 - 🤔 I’m looking for help with ... Node.js
 - 📫 How to reach me: ... poojayadav190618@gmail.com
--     My resume: ... https://drive.google.com/file/d/1J4BUF83zRwOEn4V-uhG6fsqu-uBaZvLp/view?usp=sharing
+-  <a href="https://drive.google.com/file/d/1J4BUF83zRwOEn4V-uhG6fsqu-uBaZvLp/view?usp=sharing">My resume</a>
   <p>
   <h4>Reach me</h4>
   <a href="https://www.linkedin.com/in/pooja-yadav-b939033a/"><img src="https://img.icons8.com/android/24/000000/linkedin.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
