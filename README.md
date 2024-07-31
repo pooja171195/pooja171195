@@ -1,9 +1,9 @@
 # Hi, I'm Pooja Yadav 👋👨🏻‍💻 
 
-- 🔭 I’m currently working on ...Web Development
-- 🌱 I’m currently learning ... Mongodb
-- 👯 I’m looking to collaborate on ... React.js
-- 🤔 I’m looking for help with ... Node.js
+- 🔭 I’m currently working on ...Program Management
+- 🌱 I’m currently learning ... Cypress and Jira tool
+- 👯 I’m looking to collaborate on ... SDET
+- 🤔 I’m looking for help with ... Mobile Testing
 - 📫 How to reach me: ... poojayadav190618@gmail.com
 -  <a href="https://drive.google.com/file/d/1J4BUF83zRwOEn4V-uhG6fsqu-uBaZvLp/view?usp=sharing">My resume</a>
 -  <a href="https://pooja-p.vercel.app/">My Portfolio</a>
